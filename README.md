@@ -6,7 +6,7 @@
     <title>Blog Post</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial,sans-serif;
             margin: 20px;
             padding: 0;
         }
