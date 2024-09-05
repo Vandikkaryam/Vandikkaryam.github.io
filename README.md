@@ -1,6 +1,5 @@
 >
 <head>
-<title>home</title>
 </head>
 <body backgroundimage="car1.jpg">
 <h2 align="center"bgcolor="blue">THIS IS YOUR WORLD TO ASK ANYTHING ABOUT VEHICLES</H2>
