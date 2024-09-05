@@ -1,5 +1,3 @@
-<html>
-<body backgroundimage="car2.jpg">
 <!-- Comment Section -->
 <div id="comments">
   <h2>Comments</h2>
@@ -11,7 +9,6 @@
     <!-- Comments will be displayed here -->
   </div>
 </div>
-
 <!-- JavaScript code to handle comment submission and display -->
 <script>
   const commentForm = document.getElementById('comment-form');
@@ -26,5 +23,3 @@
     document.getElementById('comment').value = ''; // Clear input field
   });
 </script>
-</body>
-</html>
